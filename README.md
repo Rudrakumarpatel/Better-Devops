@@ -10,4 +10,4 @@ This project sets up a CI/CD pipeline using GitHub Actions to:
 1. Clone the repository:
    ```bash
    git clone <repo-url>
-   cd nodejs-app
+   cd Better-Devops
